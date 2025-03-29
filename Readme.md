@@ -18,14 +18,6 @@
 
 
 
-Soaib-Shaikh: give me documantation of this code
-
-GitHub Copilot: ### [prog1.cpp](file:///d%3A/PR-11_Memory_Calculate/prog1.cpp)
-
-Below is the documentation for the provided code:
-
----
-
 #### **Overview**
 This program implements a simple **Student Management System** using C++ templates and object-oriented programming principles. It allows users to manage student records, including adding, displaying, removing, and searching for students. The program uses a class hierarchy with a base class `Memory` and a derived class `StudentsDetails`.
 
